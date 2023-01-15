@@ -1,4 +1,4 @@
-![图片2](./assets/图片2.jpg)
+![图片3](./assets/图片3.png)
 
 ### Waveform Rendering Processor (similar to Tektronix's DPX Processor)
 
@@ -14,5 +14,6 @@
 
     <img src="./assets/image-20230114224759191.png" alt="image-20230114224759191" style="zoom:50%;" />
 
-- ### Components![Waveform Rendering Processor](./assets/Waveform Rendering Processor-1673758229161-4.svg)
+- ### Components
 
+  **![img](./assets/Q8djX7QSoGFU0jQMEXW1jtAEhXWSgz3XuwCr5JIkRVbsCGSX0z33pt5GSCNgS5LaNWfKkXR_w-8EPp2JfhowCq39lVtIz4Xwi0zWgHrgxB_xK3VF_SAYUX1bUGc0SEYJuXO5sPK7zj7qtEbogUJ8XcKDJFJZRYiv4lvlQ-iOR9X3Ix1J3yppl8MKZJMn7w.png)**
