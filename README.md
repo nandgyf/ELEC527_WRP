@@ -1,4 +1,4 @@
-![图片1](./assets/图片1.png)
+![图片2](./assets/图片2.jpg)
 
 ### Waveform Rendering Processor (similar to Tektronix's DPX Processor)
 
